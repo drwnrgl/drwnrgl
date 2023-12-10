@@ -1,8 +1,12 @@
 # 💫About Me :
 👋 Hi, I’m @drwnrgl
+
 👀 I’m interested in LUA & C++
+
 🌱 I’m currently learning HTML & CSS
+
 💞️ I’m looking to collaborate on Websites / Neverlose.cc Scripts
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/uVWvBW473m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lagcompensation) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@selectivelua) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC3TGNdnd2HBNmqXZ8Himfvw) 
